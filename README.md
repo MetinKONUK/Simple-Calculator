@@ -1,2 +1,2 @@
 # Simple-Calculator
-A calculator which has adding and multiplying functions by python
+A calculator which has addition and multiplication functions. Language:python
